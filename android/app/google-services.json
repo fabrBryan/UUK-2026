@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823214000428",
+    "project_id": "alat-lab-50075",
+    "storage_bucket": "alat-lab-50075.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823214000428:android:028b3aa7d39e2794e44489",
+        "android_client_info": {
+          "package_name": "com.example.apklikasi_alat_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgeZmt7QodOlmJyydU6AmJ1D5PiukLrP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
